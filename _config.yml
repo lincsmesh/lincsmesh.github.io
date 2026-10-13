@@ -3,7 +3,7 @@ plugins:
 remote_theme: jekyll/minima
 description: ""
 minima:
-  skin: dark
+  skin: solarized-dark
   hide_site_feed_link: true
   social_links:
     - title: Website repository at GitHub
