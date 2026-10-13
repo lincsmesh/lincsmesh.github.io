@@ -13,6 +13,18 @@ The [MeshCore](https://discord.com/invite/fUfWevRXAg) discord server is also a g
 Please follow the guides on [https://meshcore.io/](https://meshcore.io/) on compatible hardware, installation of the latest fw and MeshCore android app. The discord server can also help here!
 
 ### Basic UK Settings 
+For MeshCore to operate in the UK, the default settings should be set as the below:  
+
+**UK frequency settings**
+
+| Preset | UK (Narrow) |
+| --- | --- |
+| Frequency | 869.618 MHz |
+| Bandwidth | 62.5 kHz |
+| Spreading factor | SF8 |
+| Coding rate | 8 |
+
+This is the shared profile used by MeshCore Yorkshire. Stay within the UK licence-exempt power and duty-cycle limits for your equipment and installation.
 ### Region Settings  
 [READ MORE HERE ON HOW TO GET SETUP](https://lincsmesh.co.uk/regions)  
 
