@@ -1,5 +1,4 @@
 ---
-title: "Lincolnshire Meshcore"
 ---
 ![Meshcore Logo](/assets/meshcore-tm.avif)
 
