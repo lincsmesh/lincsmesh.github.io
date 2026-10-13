@@ -6,7 +6,6 @@ title: "Lincs Mesh"
 minima:
   skin: solarized-dark
   hide_site_feed_link: true
-  site:
   social_links:
     - title: Website repository at GitHub
       icon: github
