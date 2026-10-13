@@ -1,7 +1,11 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
+description: ""
 minima:
   skin: auto
   hide_site_feed_link: true
-description: ""
+  social_links:
+    - title: Website repository at GitHub
+      icon: github
+      url: "https://github.com/lincsmesh"
