@@ -12,9 +12,10 @@ The [Meshcore](https://discord.com/invite/fUfWevRXAg) discord server is also a g
 # Getting Started
 Please follow the guide on meshcore.io on compatible hardware, installation of the latest fw and Meshcore android app. The discord server can help here!
 
-## Basic UK Settings 
-## Region Settings  
-[READ MORE HERE ON HOW TO GET SETUP](https://lincsmesh.co.uk/regions)
+### Basic UK Settings 
+### Region Settings  
+[READ MORE HERE ON HOW TO GET SETUP](https://lincsmesh.co.uk/regions)  
+
 As the meshcore network has grown, there is a growing increase in traffic which causes collisions, network congestion and spam/bots.  To combat this and keep a healthy local community the Lincolnshire mesh are in the early stages of transitioning to a region structure similar to the what the Yorkshire mesh isn't carried out.  
 
 **CLI Commands**
