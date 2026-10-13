@@ -5,6 +5,8 @@ description: ""
 minima:
   skin: solarized-dark
   hide_site_feed_link: true
+  site:
+    title: Lincolnshire Meshcore
   social_links:
     - title: Website repository at GitHub
       icon: github
