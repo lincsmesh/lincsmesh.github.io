@@ -50,6 +50,7 @@ As the MeshCore network has grown, so has the traffic - leading to collisions, n
 
 ```
 region put lincolnshire
+region default lincolnshire
 region put yorkshire
 region put eng-ne
 region put northwest
