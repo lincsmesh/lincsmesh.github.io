@@ -1,6 +1,7 @@
 ---
+title: "Lincolnshire Meshcore"
 ---
-![Meshcore Logo](/assets/meshcore-tm.avif) Lincolnshire
+![Meshcore Logo](/assets/meshcore-tm.avif)
 
 Welcome to the landing page of the Lincolnshire [Meshcore](https://meshcore.io).
 
