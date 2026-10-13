@@ -4,6 +4,7 @@
 ![MeshCore logo](/assets/meshcore-tm.avif)
 
 # Lincolnshire MeshCore
+---
 
 Welcome to the landing page for the Lincolnshire **MeshCore** community - a growing group building a reliable, connected mesh network across Lincolnshire and the neighbouring regions.
 
