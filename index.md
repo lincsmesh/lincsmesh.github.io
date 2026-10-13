@@ -3,83 +3,30 @@ title: "Home"
 ---
 ![Meshcore Logo](/assets/meshcore-tm.avif)
 
-Welcome to the landing page of the Lincolnshire [Meshcore](https://meshcore.io).
+Welcome to the landing page of the Lincolnshire [Meshcore](https://meshcore.io).  We're a growing community based on the protocol
+We're active in the `#lincolnshire` meshcore channel with a growing number of repeaters around the area.  
 
-# What is Meshcore?
+The [Meshcore](https://discord.com/invite/fUfWevRXAg) discord server is also a great resource and includes our local Region channel under `regional-channels` --> `UK - Lincolnshire`.
+
 
 # Getting Started
-test
+Please follow the guide on meshcore.io on compatible hardware, installation of the latest fw and Meshcore android app. The discord server can help here!
 
-# Settings  
+## Basic UK Settings 
+## Region Settings  
+[READ MORE HERE ON HOW TO GET SETUP](https://lincsmesh.co.uk/regions)
+As the meshcore network has grown, there is a growing increase in traffic which causes collisions, network congestion and spam/bots.  To combat this and keep a healthy local community the Lincolnshire mesh are in the early stages of transitioning to a region structure similar to the what the Yorkshire mesh isn't carried out.  
 
-# MeshCore Region Configuration Guide
-
-This guide explains how to configure MeshCore regions for repeaters participating in the **Lincolnshire MeshCore Network**.
-
-Regions help organise MeshCore traffic geographically, allowing repeaters to participate in regional networks while reducing unnecessary message propagation.
-
-## 1. Connect to Your Repeater
-
-Connect to your MeshCore repeater using a compatible CLI interface.
-
-## 2. Configure Your Regions
-
-Enter the following commands **one at a time**, pressing Enter after each command.
-
-```text
+**CLI Commands**
+```
 region put lincolnshire
 region put yorkshire
 region put eng-ne
 region put northwest
 region save
 ```
-
-### What Each Command Does
-
-| Command | Description |
-|---------|-------------|
-| `region put lincolnshire` | Adds the Lincolnshire region |
-| `region put yorkshire` | Adds the Yorkshire region |
-| `region put eng-ne` | Adds the North East England region |
-| `region put northwest` | Adds the North West England region |
-| `region save` | Saves the region configuration |
-
-## 3. Important – Default Region
-
-**⚠️ Do not configure a default region yet.**
-
-The following command is **NOT currently required**:
-
-```text
-region default lincolnshire
-```
-
-This setting may be introduced at a later stage as the regional network configuration develops.
-
-For now, only use the commands provided in Section 2.
-
-## 4. Verify Your Configuration
-
-Once the regions have been saved, you can check your configuration using:
-
-```text
-region list allowed
-```
-
-Check that the expected regions appear in the allowed list.
-
-## 5. Additional Information
-
-- Region names should be entered exactly as shown.
-- Use lowercase letters for consistency.
-- Run `region save` after making changes.
-- Only configure regions appropriate to your repeater and its intended network participation.
-- Adding regions alone does not automatically block unscoped traffic or other regions.
-
-## Useful Links
-
-- [MeshCore GitHub Repository](https://github.com/meshcore-dev/MeshCore)
-- [MeshCore Repeater CLI Reference](https://github.com/meshcore-dev/MeshCore/wiki/Repeater-%26-Room-Server-CLI-Reference)
+Please read the [regions](https://lincsmesh.co.uk/regions) page for more info.
+ 
 
 ---
 
