@@ -9,3 +9,6 @@ minima:
     - title: Website repository at GitHub
       icon: github
       url: "https://github.com/lincsmesh"
+    - title: Discord
+      icon: discord  
+      url: "https://discord.com/invite/fUfWevRXAg"
