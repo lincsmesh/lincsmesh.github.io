@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="hexGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="128" fill="#0f172a" />
+
+  <!-- Outer Hexagon Boundary -->
+  <polygon points="256,64 416,160 416,352 256,448 96,352 96,160" 
+           fill="none" stroke="url(#hexGrad)" stroke-width="20" stroke-linejoin="round" />
+
+  <!-- Internal Mesh Node Triangles -->
+  <g stroke="url(#hexGrad)" stroke-width="12" stroke-linejoin="round" opacity="0.8">
+    <line x1="256" y1="64" x2="256" y2="256" />
+    <line x1="416" y1="160" x2="256" y2="256" />
+    <line x1="416" y1="352" x2="256" y2="256" />
+    <line x1="256" y1="448" x2="256" y2="256" />
+    <line x1="96" y1="352" x2="256" y2="256" />
+    <line x1="96" y1="160" x2="256" y2="256" />
+  </g>
+
+  <!-- Center Mesh Core -->
+  <circle cx="256" cy="256" r="32" fill="#38bdf8" />
+  <circle cx="256" cy="256" r="14" fill="#ffffff" />
+  
+  <!-- Outer Corner Nodes -->
+  <circle cx="256" cy="64" r="18" fill="#10b981" />
+  <circle cx="416" cy="160" r="18" fill="#10b981" />
+  <circle cx="416" cy="352" r="18" fill="#06b6d4" />
+  <circle cx="256" cy="448" r="18" fill="#06b6d4" />
+  <circle cx="96" cy="352" r="18" fill="#06b6d4" />
+  <circle cx="96" cy="160" r="18" fill="#10b981" />
+</svg>
