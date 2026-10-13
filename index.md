@@ -1,5 +1,4 @@
 ---
-title: Lincolnshire MeshCore
 ---
 
 ![MeshCore logo](/assets/meshcore-tm.avif)
