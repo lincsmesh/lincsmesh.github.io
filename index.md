@@ -1,4 +1,5 @@
 ---
+title: "Home"
 ---
 ![Meshcore Logo](/assets/meshcore-tm.avif)
 
