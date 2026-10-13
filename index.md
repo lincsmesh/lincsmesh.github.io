@@ -6,13 +6,15 @@ Welcome to the landing page of the Lincolnshire [MeshCore](https://meshcore.io).
 We're active in the `#lincolnshire` MeshCore channel with a growing number of repeaters around the area.  
 
 The [MeshCore](https://discord.com/invite/fUfWevRXAg) discord server is also a great resource and includes our local Region channel under:  
-`regional-channels` --> `UK - Lincolnshire`.
+`regional-channels` --> `UK - Lincolnshire`.  
+
+---  
 
 
 # Getting Started
 Please follow the guides on [https://meshcore.io/](https://meshcore.io/) on compatible hardware, installation of the latest fw and MeshCore android app. The discord server can also help here!
 
-### Basic UK Settings 
+## Basic UK Settings 
 For MeshCore to operate in the UK, the default settings should be set as the below:  
 
 **UK frequency settings**
@@ -25,7 +27,7 @@ For MeshCore to operate in the UK, the default settings should be set as the bel
 | Coding rate | 8 |
 
 This is the shared profile used by MeshCore Yorkshire. Stay within the UK licence-exempt power and duty-cycle limits for your equipment and installation.
-### Region Settings  
+## Region Settings  
 [READ MORE HERE ON HOW TO GET SETUP](https://lincsmesh.co.uk/regions)  
 
 As the MeshCore network has grown, there is a growing increase in traffic which causes collisions, network congestion and spam/bots.  To combat this and keep a healthy local community the Lincolnshire mesh are in the early stages of transitioning to a region structure similar to the what the Yorkshire mesh isn't carried out.  
