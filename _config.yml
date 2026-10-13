@@ -12,3 +12,6 @@ minima:
     - title: Discord
       icon: discord  
       url: "https://discord.com/invite/fUfWevRXAg"
+    - title: Email
+      icon: email  
+      url: "mailto:contact@lincsmesh.co.uk"
