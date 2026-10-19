@@ -12,6 +12,10 @@ Welcome to the landing page for the Lincolnshire **MeshCore** community - a grow
 -  A growing number of repeaters are already live around the area
 - On the [MeshCore Discord](https://discord.com/invite/fUfWevRXAg) you'll find our local region channel under `regional-channels` → `UK - Lincolnshire`
 
+### Useful Links
+
+- [Meshrank](https://meshrank.net/) - Useful for determining how far and wide your messages are being repeated.  Observers setup around the country "observe" your packet and relay it to the website for path analysis.
+
 ---
 
 ## Getting started
